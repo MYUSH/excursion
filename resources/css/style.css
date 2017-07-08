@@ -29,3 +29,13 @@ font-weight:300;
   font-size: 21px;
   font-family:verdana;
 }
+.coming-soon {
+  color: white;
+  font-family: verdana;
+  font-size: 42px;
+}
+.copyright {
+  color: gray;
+  text-align: right;
+  font-size: 21px;
+}
