@@ -3,37 +3,45 @@ body {
     background-color: black;
     text-align: center;
   }
+
+/* Top Section */
 .discover {
   font-weight: normal;
   font-family: verdana;
   color: white;
   font-size: 50px;
 }
-.button {
-  text-align: center;
-  }
+/* Link Button */
 .button a {
   color: aquamarine;
   font-family: verdana;
   font-size: 16px;
   font-weight:normal;
 }
+
+/* App Section Title */
 .travel-guide {
 color: white;
 font-family: verdana;
 font-size: 42px;
 font-weight:300;
 }
+
+/* App Section Guide */
 .guide-text {
   color: gray;
   font-size: 21px;
   font-family:verdana;
 }
+
+/* Release date info */
 .coming-soon {
   color: white;
   font-family: verdana;
   font-size: 42px;
 }
+
+/* footer info */
 .copyright {
   color: gray;
   text-align: right;
